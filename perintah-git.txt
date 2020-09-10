@@ -1,0 +1,9 @@
+perintah penggunaan git-hub
+
+1. git clone : untuk menduplikat folder/repo dari github online ke folder lokal (komputer).
+dari folder lokal yg dituju, klik kanan --> git bash here, lalu ketikkan git clone.
+2. pastikan bahwa folder tujuan sudah sama dengan yg ada di folder lokal. gunakan cd namaFolder --> untuk masuk ke folder tujuan.
+3. git status : untuk melakukan pengecekan perubahan terakhir yg terjadi di folder lokal.
+4. git add .(tanda titik) menandai semua (dari tanda titik, jika )perubahan file terbaru masih di folder lokal.
+5. git commit -m "nambahin komentar perubahan apa yang terjadi"
+6. tulis kembali dr "run" mensinkronisasi antara folder lokal dengan repo yg ada di github.
